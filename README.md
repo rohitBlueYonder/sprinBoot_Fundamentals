@@ -1,2 +1,2 @@
-# sprinBoot_Fundamentals
+# springBoot_Fundamentals
 creating a rest service
